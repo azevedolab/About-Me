@@ -25,13 +25,13 @@ Umberto Eco. Source: <a href = "https://quoteinvestigator.com/2024/03/21/social-
 "Let the light of science end the darkness of denialism." My quote (<a href = "https://doi.org/10.2174/092986732838211207154549" title = "DOI:10.2174/092986732838211207154549">DOI:10.2174/092986732838211207154549</a>). 
 <br> </br>
 <h2>Editorial Experience</h2>
-<a href = "https://www.benthamscience.com/journal/13/editorial-board" title = "Editor-in-Chief of Current Drug Therapy">
+<a href = "https://www.benthamscience.com/journal/14/editorial-board" title = "Editor-in-Chief of Current Drug Therapy">
 <img src="https://drive.usercontent.google.com/download?id=1CkZrgw7Npq2JKcFePQjmMfqbubIU00_f&export=view&authuser=0" width=100 align=left title="Current Drug Therapy, ISSN: 1574-8855 (Print) 2212-3903 (Online)">
 <b>Current Drug Therapy, ISSN: 1574-8855 (Print) 2212-3903 (Online)</b></a>
 <br>Editor-in-Chief</br>
 <br> </br>
 <br> </br>
-<a href = "https://www.benthamscience.com/journal/14/editorial-board" title = "Section Editor of Current Drug Targets">
+<a href = "https://www.benthamscience.com/journal/13/editorial-board" title = "Section Editor of Current Drug Targets">
 <img src="https://drive.usercontent.google.com/download?id=1T-ME6m3BBpeKxy-TowKmlCrXJdE9qm7P&export=view&authuser=0" width=100 align=left title="Current Drug Targets, ISSN: 1873-5592 (Online) 1389-4501 (Print)">
 <b>Current Drug Targets, ISSN: 1873-5592 (Online) 1389-4501 (Print)</b></a>
 <br>Section Editor (Section: Bioinformatics and Biophysics)</br>
@@ -49,7 +49,7 @@ Umberto Eco. Source: <a href = "https://quoteinvestigator.com/2024/03/21/social-
 <br>Editor of Docking Screens for Drug Discovery (1st Edition)</br>
 <br> </br>
 <br> </br>
-<a href = "https://link.springer.com/book/10.1007/978-1-4939-9752-7" title = "Editor of Docking Screens for Drug Discovery (2nd Edition)">
+<a href = "https://link.springer.com/book/10.1007/978-1-0716-4949-7" title = "Editor of Docking Screens for Drug Discovery (2nd Edition)">
 <img src="https://drive.usercontent.google.com/download?id=10SPGOGrtXfsQnCVXcWNN9aZIkgSnj_0p&export=view&authuser=0" width=100 align=left title="Methods of Molecular Biology-Docking Screens for Drug Discovery (2nd Edition), ISBN: 978-1-0716-4948-0 (Hard Cover) 978-1-0716-4949-7 (Online)">
 <b>Methods of Molecular Biology-Docking Screens for Drug Discovery (2nd Edition), ISBN: 978-1-0716-4948-0 (Hard Cover) 978-1-0716-4949-7 (Online)</b></a>
 <br>Editor of Docking Screens for Drug Discovery (2nd Edition)</br>
