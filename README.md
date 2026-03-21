@@ -1,7 +1,7 @@
 # About-Me
 About Dr. Walter F. de Azevedo, Jr.
 <h2>Prof. Dr. Walter F. de Azevedo, Jr.</h2>
-<img src="https://drive.usercontent.google.com/download?id=1ao9REI0b_bCbjDy2pu4k3Tbr35LCB5Qt&export=view&authuser=0" width=200 align=left title="Walter Filgueira de Azevedo, Jr. October 02, 2024. Alfenas-MG. Brazil."></a>
+<img src="https://drive.usercontent.google.com/download?id=1ao9REI0b_bCbjDy2pu4k3Tbr35LCB5Qt&export=view&authuser=0" width=200 align=left title="Walter Filgueira de Azevedo, Jr. October 02, 2024. Alfenas-MG. Brazil.">
 <p>
 My scientific interests are interdisciplinary, with three main emphases: <a href = "https://doi.org/10.3390/molecules24030637" title = "Nussinov R, Tsai CJ, Shehu A, Jang H. Computational Structural Biology: Successes, Future Directions, and Challenges. Molecules. 2019 Feb 12;24(3):637. doi: 10.3390/molecules24030637">computational structural biology</a>, <a href = "https://www.ibm.com/topics/artificial-intelligence" title = "What is AI?">artificial intelligence</a>, and <a href = "http://www.scholarpedia.org/article/Complex_systems" title = "Complex systems">complex systems</a>. In my studies, I developed several free software programs to explore the concept of <a href = "https://www.eurekaselect.com/article/84362" title = "Heck GS, Pintro VO, Pereira RR, de Ávila MB, Levin NMB, de Azevedo WF. Supervised Machine Learning Methods Applied to Predict Ligand- Binding Affinity. Curr Med Chem. 2017;24(23):2459-2470.">Scoring Function Space</a>. </p>
 <p>
@@ -24,3 +24,59 @@ Umberto Eco. Source: <a href = "https://quoteinvestigator.com/2024/03/21/social-
 <br> </br>
 "Let the light of science end the darkness of denialism." My quote (<a href = "https://doi.org/10.2174/092986732838211207154549" title = "DOI:10.2174/092986732838211207154549">DOI:10.2174/092986732838211207154549</a>). 
 <br> </br>
+<h2>Editorial Experience</h2>
+<a href = "https://www.benthamscience.com/journal/13/editorial-board" title = "Editor-in-Chief of Current Drug Therapy">
+<img src="https://drive.usercontent.google.com/download?id=1CkZrgw7Npq2JKcFePQjmMfqbubIU00_f&export=view&authuser=0" width=100 align=left title="Current Drug Therapy, ISSN: 1574-8855 (Print) 2212-3903 (Online)">
+<b>Current Drug Therapy, ISSN: 1574-8855 (Print) 2212-3903 (Online)</b></a>
+<br>Editor-in-Chief</br>
+<br> </br>
+<br> </br>
+<a href = "https://www.benthamscience.com/journal/14/editorial-board" title = "Section Editor of Current Drug Targets">
+<img src="https://drive.usercontent.google.com/download?id=1T-ME6m3BBpeKxy-TowKmlCrXJdE9qm7P&export=view&authuser=0" width=100 align=left title="Current Drug Targets, ISSN: 1873-5592 (Online) 1389-4501 (Print)">
+<b>Current Drug Targets, ISSN: 1873-5592 (Online) 1389-4501 (Print)</b></a>
+<br>Section Editor (Section: Bioinformatics and Biophysics)</br>
+<br> </br>
+<br> </br>
+<a href = "https://www.benthamscience.com/journal/25/editorial-board" title = "Section Editor of Current Medicinal Chemistry">
+<img src="https://drive.usercontent.google.com/download?id=1r3m3l_qUMePt21cl_QmxFs--yNcDl_-L&export=view&authuser=0" width=100 align=left title="Current Medicinal Chemistry, ISSN: 0929-8673 (Print) 1875-533X (Online)">
+<b>Current Medicinal Chemistry, ISSN: 0929-8673 (Print) 1875-533X (Online)</b></a>
+<br>Section Editor (Bioinformatics in Drug Design and Discovery)</br>
+<br> </br>
+<br> </br>
+<a href = "https://link.springer.com/book/10.1007/978-1-4939-9752-7" title = "Editor of Docking Screens for Drug Discovery (1st Edition)">
+<img src="https://drive.usercontent.google.com/download?id=18cd83UaxeIANHeQvDCTOm1RffvUA10Sx&export=view&authuser=0" width=100 align=left title="Methods of Molecular Biology-Docking Screens for Drug Discovery (1st Edition), ISBN: 978-1-4939-9751-0 (Hard Cover) 978-1-4939-9752-7 (Online)">
+<b>Methods of Molecular Biology-Docking Screens for Drug Discovery (1st Edition), ISBN: 978-1-4939-9751-0 (Hard Cover) 978-1-4939-9752-7 (Online)</b></a>
+<br>Editor of Docking Screens for Drug Discovery (1st Edition)</br>
+<br> </br>
+<br> </br>
+<a href = "https://link.springer.com/book/10.1007/978-1-4939-9752-7" title = "Editor of Docking Screens for Drug Discovery (2nd Edition)">
+<img src="https://drive.usercontent.google.com/download?id=10SPGOGrtXfsQnCVXcWNN9aZIkgSnj_0p&export=view&authuser=0" width=100 align=left title="Methods of Molecular Biology-Docking Screens for Drug Discovery (2nd Edition), ISBN: 978-1-0716-4948-0 (Hard Cover) 978-1-0716-4949-7 (Online)">
+<b>Methods of Molecular Biology-Docking Screens for Drug Discovery (2nd Edition), ISBN: 978-1-0716-4948-0 (Hard Cover) 978-1-0716-4949-7 (Online)</b></a>
+<br>Editor of Docking Screens for Drug Discovery (2nd Edition)</br>
+<br> </br>
+<br> </br>
+<a href = "https://link.springer.com/collections/gdgeagaecd" title = "Guest Editor of Journal of Molecular Modeling">
+<img src="https://drive.usercontent.google.com/download?id=1u1oNKdSn2DahRFEK4h6s2UzFa2irE_E_&export=view&authuser=0" width=100 align=left title="Journal of Molecular Modeling, ISSN: 1610-2940 (Print) 0948-5023 (Online)">
+<b>Journal of Molecular Modeling, ISSN: 1610-2940 (Print) 0948-5023 (Online)</b></a>
+<br>Guest Editor: Hybrid Quantum–Machine Learning Workflows for Drug Design, Materials Discovery and Reaction Mechanism Predictions</br>
+<br> </br>
+<br> </br>
+<a href = "https://www.sciencedirect.com/special-issue/329534/quantum-chemical-methods-in-molecular-structure-and-reactivity-for-applications-in-quantum-biology" title = "Guest Editor of Journal of Molecular Structure">
+<img src="https://drive.usercontent.google.com/download?id=1bXMF9KMJypJqeXBN6wtMXWGVW639vsbk&export=view&authuser=0" width=100 align=left title="Journal of Molecular Structure, ISSN: 0022-2860 (Print) 1872-8014 (Online)">
+<b>Journal of Molecular Structure, ISSN: 0022-2860 (Print) 1872-8014 (Online)</b></a>
+<br>Guest Editor: Quantum Chemical Methods in Molecular Structure and Reactivity for Applications in Quantum Bi</br>
+<br> </br>
+<br> </br>
+<a href = "https://link.springer.com/journal/11030/editorial-board" title = "Member of Editorial Board of Molecular Diversity">
+<img src="https://drive.usercontent.google.com/download?id=1pGUE5t0MVyWYUeh18WxHDBJXfykZfU8w&export=view&authuser=0" width=100 align=left title="Molecular Diversity Electronic, ISSN: 1381-1991 (Print) 1573-501X (Online)">
+<b>Molecular Diversity Electronic, ISSN: 1381-1991 (Print) 1573-501X (Online)</b></a>
+<br>Member of Editorial Board</br>
+<br> </br>
+<br> </br>
+<a href = "https://juniperpublishers.com/omcij/editorialboard.php" title = "Honorable Editor of Organic & Medicinal Chemistry International Journal">
+<img src="https://drive.usercontent.google.com/download?id=107CSH54z9SIZBirfBsEMlWrPPbRGQGEk&export=view&authuser=0" width=100 align=left title="Organic & Medicinal Chemistry International Journal, ISSN: 2474-7610">
+<b>Organic & Medicinal Chemistry International Journal, ISSN: 2474-7610</b></a>
+<br>Member of Editorial Board</br>
+
+
+
