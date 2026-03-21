@@ -64,7 +64,7 @@ Umberto Eco. Source: <a href = "https://quoteinvestigator.com/2024/03/21/social-
 <a href = "https://www.sciencedirect.com/special-issue/329534/quantum-chemical-methods-in-molecular-structure-and-reactivity-for-applications-in-quantum-biology" title = "Guest Editor of Journal of Molecular Structure">
 <img src="https://drive.usercontent.google.com/download?id=1bXMF9KMJypJqeXBN6wtMXWGVW639vsbk&export=view&authuser=0" width=100 align=left title="Journal of Molecular Structure, ISSN: 0022-2860 (Print) 1872-8014 (Online)">
 <b>Journal of Molecular Structure, ISSN: 0022-2860 (Print) 1872-8014 (Online)</b></a>
-<br>Guest Editor: Quantum Chemical Methods in Molecular Structure and Reactivity for Applications in Quantum Bi</br>
+<br>Guest Editor: Quantum Chemical Methods in Molecular Structure and Reactivity for Applications in Quantum Biology</br>
 <br> </br>
 <br> </br>
 <a href = "https://link.springer.com/journal/11030/editorial-board" title = "Member of Editorial Board of Molecular Diversity">
