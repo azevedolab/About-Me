@@ -1,7 +1,16 @@
 # About-Me
 About Dr. Walter F. de Azevedo, Jr.
 <h2>Prof. Dr. Walter F. de Azevedo, Jr.</h2>
+<a href="https://scholar.google.com/citations?user=HWwJXJUAAAAJ" title = "Link to Google Scholar">
+<img src="https://drive.usercontent.google.com/download?id=1rL_DWbMj6timTlYlhn9Hwm1acq8AU4QV&export=view&authuser=0" height=24 alt="Link to Google Scholar"></a>  
+<a href="https://www.scopus.com/authid/detail.uri?authorId=7006435557" title = "Link to Scopus">
+<img src="https://drive.usercontent.google.com/download?id=1URGO8UDkZV_4wX_4c0_gUvhEjfnUyqCQ&export=view&authuser=0" height=24 alt="Link to Scopus"></a>
+<a href="https://www.webofscience.com/wos/author/record/581112" title = "Link to Web Of Science">
+<img src="https://drive.usercontent.google.com/download?id=1pEf0pZ9go-xPspc5xw_dR46fm-QfQalb&export=view&authuser=0" height=24 alt="Link to Web Of Science"></a>
+
+
 <img src="https://drive.usercontent.google.com/download?id=1ao9REI0b_bCbjDy2pu4k3Tbr35LCB5Qt&export=view&authuser=0" width=200 align=left title="Walter Filgueira de Azevedo, Jr. October 02, 2024. Alfenas-MG. Brazil.">
+
 <p>
 My scientific interests are interdisciplinary, with three main emphases: <a href = "https://doi.org/10.3390/molecules24030637" title = "Nussinov R, Tsai CJ, Shehu A, Jang H. Computational Structural Biology: Successes, Future Directions, and Challenges. Molecules. 2019 Feb 12;24(3):637. doi: 10.3390/molecules24030637">computational structural biology</a>, <a href = "https://www.ibm.com/topics/artificial-intelligence" title = "What is AI?">artificial intelligence</a>, and <a href = "http://www.scholarpedia.org/article/Complex_systems" title = "Complex systems">complex systems</a>. In my studies, I developed several free software programs to explore the concept of <a href = "https://www.eurekaselect.com/article/84362" title = "Heck GS, Pintro VO, Pereira RR, de Ávila MB, Levin NMB, de Azevedo WF. Supervised Machine Learning Methods Applied to Predict Ligand- Binding Affinity. Curr Med Chem. 2017;24(23):2459-2470.">Scoring Function Space</a>. </p>
 <p>
