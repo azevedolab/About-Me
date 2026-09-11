@@ -7,8 +7,8 @@ About Dr. Walter F. de Azevedo, Jr.
 <img src="https://drive.usercontent.google.com/download?id=1URGO8UDkZV_4wX_4c0_gUvhEjfnUyqCQ&export=view&authuser=0" height=24 alt="Link to Scopus"></a>
 <a href="https://www.webofscience.com/wos/author/record/581112" title = "Link to Web Of Science">
 <img src="https://drive.usercontent.google.com/download?id=1pEf0pZ9go-xPspc5xw_dR46fm-QfQalb&export=view&authuser=0" height=24 alt="Link to Web Of Science"></a>
-<a href="https://heyzine.com/flip-book/83a6e07e8f.html" title = "Link to Curriculum Vitae (Flip book)">
-<img src="https://drive.usercontent.google.com/download?id=17kToUZlwbJ4PgorpUY7EGQA1lFnR_2Gh&export=view&authuser=0" height=24 alt="Link to Curriculum Vitae (Flip book"></a>
+<a href="https://heyzine.com/flip-book/83a6e07e8f.html" title = "Link to Curriculum Vitae">
+<img src="https://drive.usercontent.google.com/download?id=17kToUZlwbJ4PgorpUY7EGQA1lFnR_2Gh&export=view&authuser=0" height=24 alt="Link to Curriculum Vitae"></a>
 <img src="https://drive.usercontent.google.com/download?id=1ao9REI0b_bCbjDy2pu4k3Tbr35LCB5Qt&export=view&authuser=0" width=200 align=left title="Walter Filgueira de Azevedo, Jr. October 02, 2024. Alfenas-MG. Brazil.">
 
 <p>
