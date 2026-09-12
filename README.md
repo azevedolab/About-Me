@@ -29,7 +29,7 @@ Umberto Eco. Source: <a href = "https://quoteinvestigator.com/2024/03/21/social-
 <h2>Research Highlights</h2>
 <a href = "https://febs.onlinelibrary.wiley.com/doi/10.1111/j.1432-1033.1997.0518a.x" title = "Inhibition of Cyclin-Dependent Kinases by Purine Analogues">
 <img src="https://drive.usercontent.google.com/download?id=1TZyOWapNMveGhOp08G4yoIW70ukD_9er&export=view&authuser=0" width=200 align=left title="Structure of CDK2 in Complex with Roscovitine">
-<b>Structure of CDK2 in Complex with Roscovitine</b></a>
+<b>1997</b>: Structure of CDK2 in Complex with Roscovitine</a>
 <p>The CDK2-Roscovitine structure shows that the (R)-stereoisomer of roscovitine is bound to CDK2. Results from structure/activity studies and from
 analysis of the CDK2/Roscovitine complex crystal structure should allow the design of even more potent CDK inhibitors.</p>
 <p>PDB: <a href="https://www.rcsb.org/structure/2A4L" title="Link to PDB">2A4L</a></p>
@@ -38,7 +38,7 @@ analysis of the CDK2/Roscovitine complex crystal structure should allow the desi
 <br> </br>
 <a href = "https://www.youtube.com/watch?v=N9IFiQNY8mE" title = "Crystallization of Proteins in Space (STS-95)">
 <img src="https://drive.usercontent.google.com/download?id=1_sZr_FGI17CaASWViWnhUaPnWQy9Do9h&export=view&authuser=0" width=200 align=left title="News is Portuguese (Rede Globo, 1998)">
-<b>Crystallization of Proteins in Space (STS-95)</b></a>
+<b>1998</b>: Crystallization of Proteins in Space (STS-95)</a>
 <p>In 1998, Dr. Azevedo participated in a research project with NASA. This project focused on protein crystallization in microgravity onboard the Space Shuttle Discovery (STS-95). Brazilian TV networks covered this research.</p>
 <br> </br>
 <br> </br>
@@ -46,7 +46,7 @@ analysis of the CDK2/Roscovitine complex crystal structure should allow the desi
 <br> </br>
 <a href = "https://doi.org/10.1107/s090744490402517x" title = "Structure of shikimate kinase from Mycobacterium tuberculosis reveals the binding of shikimic acid">
 <img src="https://drive.usercontent.google.com/download?id=14lf3aT9ufpOMDJma_HhSDkfSHq0YdBe1&export=view&authuser=0" width=200 align=left title="Structure of shikimate kinase from Mycobacterium tuberculosis reveals the binding of shikimic acid">
-<b>Structure of Shikimate Kinase (Cover of Acta Crystallographica D)</b></a>
+<b>2004</b>: Structure of Shikimate Kinase (Cover of Acta Crystallographica D)</a>
 <p>The structure of shikimate kinase from <i>Mycobacterium tuberculosis</i> (MtSK) complexed with MgADP and shikimic acid (shikimate) was determined at 2.3 Å resolution. It clearly reveals the residues involved in shikimate binding. This is the first three-dimensional structure of SK complexed with shikimate. This paper was the cover of Acta Crystallographica D (<a href="https://journals.iucr.org/d/issues/2004/12/02/" title ="Cover of Acta Crystallographic D Vol. 60 (Pt 12 Pt 2)">Vol. 60 (Pt 12 Pt 2)</a>).</p>
 <p>PDB: <a href="https://www.rcsb.org/structure/1WE2" title="Link to PDB">1WE2</a></p>
 <p>DOI: <a href="https://doi.org/10.1107/s090744490402517x" title="Link to DOI">10.1107/S090744490402517X</a></p>
@@ -54,27 +54,27 @@ analysis of the CDK2/Roscovitine complex crystal structure should allow the desi
 <br> </br>
 <a href = "https://doi.org/10.1016/j.toxicon.2005.07.018" title = "Automated NMR structure determination and disulfide bond identification of the myotoxin crotamine from Crotalus durissus terrificus">
 <img src="https://drive.usercontent.google.com/download?id=1kdKmLwJdBZ_oz4eE2v7A6xg8k5ehqHlv&export=view&authuser=0" width=200 align=left title="Automated NMR structure determination and disulfide bond identification of the myotoxin crotamine from Crotalus durissus terrificus">
-<b>NMR Structure of Crotaimine (Participation of a Nobel Prize Winner)</b></a>
+<b>2005</b>: NMR Structure of Crotaimine (Participation of a Nobel Prize Winner)</a>
 <p>Crotamine is one of four major components of the venom of the South American rattlesnake Crotalus durissus terrificus. This paper reports a new NMR structure determination of crotamine in aqueous solution at pH 5.8 and 20 degrees C, using standard homonuclear 1H NMR spectroscopy at 900MHz and the automated structure calculation software ATNOS/CANDID/DYANA. <a href="https://www.nobelprize.org/prizes/chemistry/2002/wuthrich/facts/" title="Prof. Kurt Wüthrich (Nobel Prize winner in Chemistry, 2002)">Prof. Kurt Wüthrich (Nobel Prize winner in Chemistry, 2002)</a> led this research.</p>
 <p>PDB: <a href="https://www.rcsb.org/structure/1Z99" title="Link to PDB">1Z99</a></p>
 <p>DOI: <a href="https://doi.org/10.1016/j.toxicon.2005.07.018" title="Link to DOI">10.1016/j.toxicon.2005.07.018</a></p>
 <br> </br>
 <a href = "https://doi.org/10.1016/j.abb.2008.08.015" title = "Structural studies of human purine nucleoside phosphorylase: Towards a new specific empirical scoring function">
 <img src="https://drive.usercontent.google.com/download?id=1ghcLmldxiP4ZXFlJQUhRZkZUK9rLgL5H&export=view&authuser=0" width=200 align=left title="Structural studies of human purine nucleoside phosphorylase: Towards a new specific empirical scoring function">
-<b>Structural Studies of Human Purine Nucleoside Phosphorylase (Cover of Archives of Biochemistry and Biophysics)</b></a>
+<b>2008</b>: Structural Studies of Human Purine Nucleoside Phosphorylase (Cover of Archives of Biochemistry and Biophysics) (November 1, 2008)</a>
 <p>Human purine nucleoside phosphorylase (HsPNP) is a target for inhibitor development aiming at T-cell immune modulation. In this work, we report a new set of empirical scoring functions and their application to evaluate binding affinities and docking results. This study was the cover of <a href="https://www.sciencedirect.com/journal/archives-of-biochemistry-and-biophysics/vol/479/issue/1" title =""Structural studies of human purine nucleoside phosphorylase: Towards a new specific empirical scoring function">Archives of Biochemistry and Biophysics (Vol. 479 (1))</a>.</p>
 <p>PDB: <a href="https://www.rcsb.org/structure/3D1V" title="Link to PDB">3D1V</a></p>
 <p>DOI: <a href="https://doi.org/10.1016/j.abb.2008.08.015" title="Link to DOI">10.1016/j.abb.2008.08.015 </a></p>
 <br> </br>
 <a href = "https://doi.org/10.2174/138945008786949469" title = "Protein-Drug Interactions">
 <img src="https://drive.usercontent.google.com/download?id=1TQ_tmXoO-ejDRTCJYRZ-QT4OKMsj2yez&export=view&authuser=0" width=200 align=left title="Protein-Drug Interactions">
-<b>Hot Topic: Protein-Drug Interactions (Guest Editor: Walter Filgueira de Azevedo Jr.)</b></a>
+<b>2008</b>: Hot Topic: Protein-Drug Interactions (Guest Editor: Walter Filgueira de Azevedo Jr.)</a>
 <p>Editorial: Analysis of protein-drug interactions (de Azevedo, 2008) One of the most interesting and important challenges in the so-called "Post- genomic Era" is the understanding of protein networks. Until the 1980s, most of our knowledge about drugs, drug mechanisms, and drug receptors could fit in a few encyclopedic books and a couple of dozen schematic figures. However, with the recent explosion in biological and chemical knowledge, this is no longer the case. This volume of Current Drug Targets (<a href="https://www.eurekaselect.com/issue/2402" title="Hot Topic:Protein-Drug Interactions(Guest Editor: Walter Filgueira de Azevedo Jr.)">Vol. 9 (12)</a>) brings together several reviews about protein-drug interactions. They are accessible <a href="https://www.eurekaselect.com/issue/2402" title="Hot Topic:Protein-Drug Interactions(Guest Editor: Walter Filgueira de Azevedo Jr.)">here</a>.</p>
 <p>DOI: <a href="https://doi.org/10.2174/138945008786949469" title="Link to DOI">10.2174/138945008786949469</a></p>
 <br> </br>
 <a href = "https://doi.org/10.1007/978-1-4939-9752-7" title = "Docking Screens for Drug Discovery">
 <img src="https://drive.usercontent.google.com/download?id=1rRc6opxS-EiPllPvlBFP2tarYy-DiNel&export=view&authuser=0" width=200 align=left title="Docking Screens for Drug Discovery">
-<b>Publication of Docking Screens for Drug Discovery (26 August 2019)</b></a>
+<b>2019</b>: Publication of Docking Screens for Drug Discovery (August 26, 2019)</a>
 <p>This book focuses on recent developments in docking simulations for target proteins, with chapters on specific techniques, including the major docking programs.</p>
 <p>DOI: <a href="https://doi.org/10.1007/978-1-4939-9752-7" title="Link to DOI">10.1007/978-1-4939-9752-7</a></p>
 <br> </br>
@@ -82,7 +82,7 @@ analysis of the CDK2/Roscovitine complex crystal structure should allow the desi
 <br> </br>
 <a href = "https://doi.org/10.2174/0929867325666180417165247" title = "Advances in the Understanding of the Cannabinoid Receptor 1 – Focusing on the Inverse Agonists Interactions">
 <img src="https://drive.usercontent.google.com/download?id=1OzpFpSkvLvHxJ8L2vh4JrxCdJ7ECNYzz&export=view&authuser=0" width=200 align=left title="Advances in the Understanding of the Cannabinoid Receptor 1 – Focusing on the Inverse Agonists Interactions (Cover of Current Medicinal Chemistry)">
-<b>Cover of Current Medicinal Chemistry (Volume 26(10)) (2019)</b></a>
+<b>2019</b>: Cover of Current Medicinal Chemistry (Volume 26(10)) (2019)</a>
 <p>Analysis of Cannabinoid Receptor 1-Agonist complexes revealed the pivotal role of residues Phe 170 and Leu 359 in their interactions and strong intermolecular hydrogen bonds.</p>
 <p>DOI: <a href="https://doi.org/10.2174/0929867325666180417165247" title="Link to DOI">10.2174/0929867325666180417165247</a></p>
 <br> </br>
@@ -90,7 +90,7 @@ analysis of the CDK2/Roscovitine complex crystal structure should allow the desi
 <br> </br>
 <a href = "https://doi.org/10.1002/jcc.26048" title = "Taba: A Tool to Analyze the Binding Affinity">
 <img src="https://drive.usercontent.google.com/download?id=1ztqtOjir5afV5uXTYP9v6sbiNe6tAD0m&export=view&authuser=0" width=200 align=left title="Taba: A Tool to Analyze the Binding Affinity">
-<b>Cover of the Journal of Computational Chemistry showing the mass-spring model employed by the program Taba (01 January 2020)</b></a>
+<b>2020</b>: Cover of the Journal of Computational Chemistry showing the mass-spring model employed by the program Taba (01 January 2020)</a>
 <p>The basic idea behind Taba is that the determinant structural features responsible for ligand-binding affinity are already somehow imprinted in the three-imensional structures of protein-ligand complexes.</p>
 <p>DOI: <a href="https://doi.org/10.1002/jcc.26048" title="Link to DOI">10.1002/jcc.26048</a></p>
 <br> </br>
@@ -98,7 +98,7 @@ analysis of the CDK2/Roscovitine complex crystal structure should allow the desi
 <br> </br>
 <a href = "https://doi.org/10.1007/978-1-0716-4949-7" title = "Docking Screens for Drug Discovery (2nd Edition)">
 <img src="https://drive.usercontent.google.com/download?id=1fk15LZiXQ-vxAwAvTisQ4g2n21DmIvjb&export=view&authuser=0" width=200 align=left title="Docking Screens for Drug Discovery (2nd Edition)">
-<b>Publication of Docking Screens for Drug Discovery (2nd Edition) (12 October 2025)</b></a>
+<b>2025</b>: Publication of Docking Screens for Drug Discovery (2nd Edition) (October 12, 2025)</a>
 <p>This book focuses on recent developments in docking simulations for target proteins, with chapters on specific techniques, including the major docking programs.</p>
 <p>DOI: <a href="https://doi.org/10.1007/978-1-0716-4949-7" title="Link to DOI">10.1007/978-1-0716-4949-7</a></p>
 <br> </br>
